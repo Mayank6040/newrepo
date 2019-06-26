@@ -1,0 +1,56 @@
+Problem Statement
+According to the statement given,problem is defined to develop two cloud based applications one for employees of the company and the other for the potential customers of company. 
+A. Information management system 
+	feedback management system
+	leave management system
+	Devlopment platform: Google Cloud
+	Deployment platform: Google Cloud
+	
+B. eCommerce website  
+	products
+	online shopping exp enviourment
+	Devlopment platform: Amazon webservices
+	Deployment platform: Amazon webservices
+-------------------------------------------------------------------------
+A. Information management system
+	Functional requirement:
+	1. Authentication for user and admin
+	2. user friendly ui for Feedback management and leave management
+	3. Feedback must be visible to admin and the user for whom it is recorded.
+	4. Feedback must be recorded on monthly basis and with ratings given a 	   graph must be developed.
+	5. Website must show the top rated employees on website home page.
+	6. No employee can take more than alloted leave.
+	7. All leave request will be forwarded to the management which will decide 	   the request approval.
+	8. The request will be recorded atleast day besfor leave scheduled.
+	9. Separate mechanism for emergency leaves.
+	10. user can take leaves for half day or a full day.
+
+	Non functional requirement:
+	1. Robust website
+	2. Inreactive UI
+	3. Informative
+	4. must not be accessible through internet since is used within institution 	   only.
+	5. Secure 
+
+B. Ecommerce website
+	Functional requirement
+	1. show product details with a add to cart and a fav option
+	2. on addition to cart, billing amount must be calculated with additional 	   taxes.
+	3. products must be recorded from Store with neccesary details.
+	4. User review must be recorded once he recived a product.
+	5. Fav products list must shown to the user with add to cart option.
+	6. Secured payment gateway at checkout.
+	7. Separate ui for admin,store keeper and user directe through same login 	   page.
+	8. After addition to cart address of user must be checked for delivery.
+	9. Separate list of ordered product with tracking mechanism.
+
+	Non functional requirement:
+	1. Robust website
+	2. Inreactive UI
+	3. Informative
+	4. all time availablity
+	5. Secure	    
+	6. can persist with large number of users
+----------------------------------------------------------------------------------
+Problem statement;
+problem statement to develop two cloud based applications one for employees of the company and the other for the potential customers of company. with above mentioned functional and non functional requirements.  
